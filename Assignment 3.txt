@@ -8,8 +8,8 @@ function areaperi(){
 }
 undefined
 areaperi();
-VM1330:5 area NaN
-VM1330:6 perimeter NaN
+VM1330:5 area 12
+VM1330:6 perimeter 14
 undefined
 
 
